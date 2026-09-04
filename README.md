@@ -33,4 +33,5 @@ Projeto de aplicativo voltado para turismo no Nordeste brasileiro - ainda será 
 ## 📫 Contato
 
 🔗 https://www.linkedin.com/in/rem%C3%ADdia-caroline-5152a73a3/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAecijxCWQpe1H8C6x7kX0Q%3D%3D
+
 📧 remidiac.almeida@gmail.com
